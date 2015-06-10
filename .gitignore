@@ -1,0 +1,6 @@
+/.*
+!.gitignore
+*.exe
+*.hi
+*.o
+!*.hs
